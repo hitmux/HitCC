@@ -158,3 +158,14 @@ Copyright (c) 2026 Hitmux contributors
 任何将本项目用于侵犯 Anthropic PBC 合法权益或规避产品政策的行为，均与本项目无关，风险自负。
 
 作者不对文档内容的准确性、完整性或因使用该文档导致的任何直接或间接损失（包括但不限于法律风险、技术故障、数据丢失）承担法律责任。
+
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=hitmux%2Fhitcc&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=hitmux/hitcc&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=hitmux/hitcc&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=hitmux/hitcc&type=date&legend=top-left" />
+ </picture>
+</a>
