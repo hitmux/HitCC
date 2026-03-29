@@ -20,6 +20,17 @@ The Python scripts under `recovery_tools/` can perform an initial round of clean
 
 This repository is based only on static analysis of Claude Code CLI v2.1.84 obtained through the method above. It does not include runtime dynamic analysis, and it did not use any Anthropic PBC network services, including LLM inference services.
 
+The documentation content in this repository may be quite extensive. The current statistics for the `docs/` directory (the following data may not be updated in real time):
+
+```
+TOTAL
+  Files: 81
+  Lines: 27170
+  Chars: 698707
+  Bytes: 953399
+```
+
+
 ## What This Repository Provides
 
 - Structured reverse-engineering documentation for the main Claude Code CLI execution chain

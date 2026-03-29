@@ -18,8 +18,16 @@ npm pack @anthropic-ai/claude-code@2.1.84
 
 `recovery_tools/`下面的Pthton脚本可以对混淆加密后的源代码初步优化
 
-
 本仓库仅基于上述方法获得的 Claude Code CLI v2.1.84 的静态分析，未进行运行时动态分析，也没有使用 Anthropic PBC 提供的任何包括 LLM 推理服务在内的网络服务。
+
+本仓库文档内容可能偏多，目前统计的 `docs/`（下列数据可能不会及时更新）：
+```
+TOTAL
+  Files: 81
+  Lines: 27170
+  Chars: 698707
+  Bytes: 953399
+```
 
 ## 这个仓库提供什么
 
