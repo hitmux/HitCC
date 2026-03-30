@@ -164,8 +164,6 @@ The authors assume no legal responsibility for the accuracy or completeness of t
 
 ## Star History
 
-## Star History
-
 <a href="https://www.star-history.com/?repos=hitmux%2Fhitcc&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=hitmux/hitcc&type=date&theme=dark&legend=top-left" />
